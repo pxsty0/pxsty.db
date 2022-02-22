@@ -1,0 +1,16 @@
+{
+  "name": "pxsty.db",
+  "version": "2.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxsty0/pxsty.db.git"
+  },
+  "author": "PXSTY",
+  "license": "MIT",
+  "homepage": "https://pxsty.tech/"
+}
