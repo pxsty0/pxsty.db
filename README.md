@@ -1,6 +1,4 @@
 # Pxsty.DB
-Code is Protected by MIT License, Legal Process is Started in case of Unauthorized Sharing <br>
-Kod MIT Lisansı İle Korunmaktadır İzinsiz Paylaşılması Durumunda Yasal Süreç Başlatılır
 <div align="center">
 
   <img src="https://img.shields.io/npm/dw/pxsty.db?style=for-the-badge&color=7289da&label=pxsty.db&logo=npm&logoColor=white">
@@ -25,3 +23,5 @@ db.allDelete(); // Veri Tabanını Komple Temizler
 ```
 
 
+Code is Protected by MIT License, Legal Process is Started in case of Unauthorized Sharing <br>
+Kod MIT Lisansı İle Korunmaktadır İzinsiz Paylaşılması Durumunda Yasal Süreç Başlatılır
